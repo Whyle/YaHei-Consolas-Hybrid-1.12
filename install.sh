@@ -27,6 +27,6 @@ echo 'installing YaHei Consolas Hybrid font...'
 
 fc-cache -fv
 
-echo 'Complete!'
+echo 'Complete! '
 
 fi
